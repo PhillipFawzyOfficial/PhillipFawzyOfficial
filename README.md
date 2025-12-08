@@ -24,7 +24,7 @@ You can reach me via:
 
 Here are some of the apps and projects I've worked on:
 
-1. **[Project 1: Weather App](https://www.google.com/)**: A mobile app built using Flutter and Firebase to show real-time weather information.
+1. **[Project 1: Weather App]([https://www.google.com/](https://github.com/PhillipFawzyOfficial/weather_app))**: A mobile app built using Flutter and Firebase to show real-time weather information.
    - Technologies: Flutter, Dart, Firebase, REST APIs
    - Key Features: Real-time data fetching, responsive design, Firebase Authentication.
 
