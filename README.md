@@ -26,9 +26,10 @@ Here are some of the apps and projects I've worked on:
 
 1. **[Project 1: Dice App](https://github.com/PhillipFawzyOfficial/dice_app)**
 1. **[Project 2: Quiz App](https://github.com/PhillipFawzyOfficial/Quiz-App)**
-1. **[Project 3: Weather App](https://github.com/PhillipFawzyOfficial/weather_app)**
-1. **[Project 4: Weather App (Clean Architecture)](https://github.com/PhillipFawzyOfficial/weather_app_cleanArchitecture)**
-1. **[Project 5: Movie App (Clean Architecture)](https://github.com/PhillipFawzyOfficial/movie_app_cleanArchitecture)**
+1. **[Project 3: Expense App](https://github.com/PhillipFawzyOfficial/Expense-Tracker-App)**
+1. **[Project 4: Weather App](https://github.com/PhillipFawzyOfficial/weather_app)**
+1. **[Project 5: Weather App (Clean Architecture)](https://github.com/PhillipFawzyOfficial/weather_app_cleanArchitecture)**
+1. **[Project 6: Movie App (Clean Architecture)](https://github.com/PhillipFawzyOfficial/movie_app_cleanArchitecture)**
    - Technologies: Flutter, Dart, Firebase, REST APIs
    - Key Features: Real-time data fetching, responsive design, Firebase Authentication.
    - Technologies: Flutter, Dart, Firebase Firestore, Push Notifications
