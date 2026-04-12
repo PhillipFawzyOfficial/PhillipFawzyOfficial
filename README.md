@@ -1,12 +1,19 @@
-# Phillip Fawzy - Flutter Developer
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/PhillipFawzyOfficial)
 
-Hi! I'm **Phillip Fawzy**, a passionate self-taught **Flutter Developer** based in **Cairo, Egypt**. With a background in **Cooperative Agriculture** and a strong drive for mobile app development, I have transitioned into the world of tech and specialize in **cross-platform mobile development** using **Flutter & Dart**.
+<div align="center">
+  <h1>Hi 👋, I'm Phillip Fawzy</h1>
+  <h3>Flutter Mobile Developer</h3>
 
-I have completed several hands-on courses on Udemy, where I learned to build **real-world mobile apps** with **Flutter**, covering areas such as UI design, state management, API integration, and Firebase. My goal is to continue growing as a developer and contribute to building high-quality mobile applications in a professional setting.
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=PhillipFawzy" alt="visitors">
+  </div>
 
-You can reach me via:
-- Email: [phillipfawzyofficial@gmail.com](mailto:phillipfawzyofficial@gmail.com)
-- LinkedIn: [linkedin.com/in/phillipfawzyofficial/](https://www.linkedin.com/in/phillipfawzyofficial/)
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=700&size=22&pause=1000&color=4A8DD7&center=true&width=435&lines=Welcome+To+My+GitHub+Profile;Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps" alt="Typing SVG">
+    </a>
+  </p>
+</div>
 
 ---
 
